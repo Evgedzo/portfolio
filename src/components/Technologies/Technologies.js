@@ -38,7 +38,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Tools like Figma
+            Tools like Tailwind
           </ListParagraph>
         </ListContainer>
       </ListItem>

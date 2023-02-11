@@ -8,13 +8,13 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Portfolio
+        Let's build something <br />
+        amazing together
       </SectionTitle>
       <SectionText>
-        The purpose of foawejfoijaweof aweo fjoawefj a;oweifj aweijfoawiejfa;oweijfaowe jfoawiejfa;woiejf awoeijfawo;eifjawoeifiagweogh awe
+        As a developer, I help companies build amazing websites, apps and services that are simple, beatutiful and easy to use.
       </SectionText>
-      <Button onClick={()=> window.location = "https://google.com"}>Learn More</Button>
+      <Button onClick={()=> window.location = "https://github.com/Evgedzo"}>Learn More</Button>
     </LeftSection>
   </Section>
 );
