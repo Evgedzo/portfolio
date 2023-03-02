@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
             <SectionDivider /> <br />
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>I am a flexible and motivated front-end developer. I am a good communicator with proven interpersonal skills and am used to working in a team whilst also being capable of using my own initiative. I am skilled In dealing with problems in a resourceful manner. I am always enthusiastic to learn and undertake new challenges.</SectionText>
+      <SectionText>I am a flexible and motivated front-end developer. Good communicator with proven interpersonal skills and am used to working in a team whilst also being capable of using my own initiative. I am skilled In dealing with problems in a resourceful manner. Always enthusiastic to learn and undertake new challenges.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
