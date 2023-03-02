@@ -16,19 +16,15 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
+          <NavLink><a style={{color:"white"}} href="#projects">Projects</a></NavLink>
+      </li>
+      <li>
 
-          <NavLink><a href="#projects">Projects</a></NavLink>
+          <NavLink><a style={{color:"white"}} href="#tech">Technologies</a></NavLink>
 
       </li>
       <li>
-        <Link href="#tech">
-          <NavLink>Technologies</NavLink>
-        </Link>
-      </li>
-      <li>
-        <Link href="#about">
-          <NavLink>About</NavLink>
-        </Link>
+          <NavLink><a style={{color:"white"}} href="#about">About</a></NavLink>
       </li>
     </Div2>
     <Div3>
