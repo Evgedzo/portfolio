@@ -8,7 +8,7 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons,Span } from './Header
 const Header = () =>  (
   <Container>
     <Div1>
-      <Link href="/portfolio">
+      <Link href="https://evgedzo.github.io/portfolio/">
         <a style={{display:"flex",alignItems:"center",color:'white', marginBottom: '20px'}}>
           <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
         </a>
@@ -16,17 +16,17 @@ const Header = () =>  (
     </Div1>
     <Div2>
       <li>
-        <Link href="portfolio/#projects">
+        <Link href="https://evgedzo.github.io/portfolio/#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="portfolio/#tech">
+        <Link href="https://evgedzo.github.io/portfolio/#tech">
           <NavLink>Technologies</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="portfolio/#about">
+        <Link href="https://evgedzo.github.io/portfolio/#about">
           <NavLink>About</NavLink>
         </Link>
       </li>
