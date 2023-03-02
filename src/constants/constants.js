@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Your Restaurant',
     description:"Beutiful created front page of a restaurant with different visual features and breathtaking design.",
-    image: '/images/2.jpg',
+    image: './images/2.jpg',
     tags: ['React', 'CSS'],
     source: 'https://evgedzo.github.io/restaurant/',
     visit: 'https://github.com/Evgedzo/restaurant',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Cryptobase',
     description: "This is the introductory crypto-based site, where you can research all popular crypto coins and be in touch with changes. The database is now offline. (Login:xdd@xdd.com, Pass:xddxdd)",
-      image: '/images/3.jpg',
+      image: './images/3.jpg',
       tags: ['React', 'Node', 'Firebase', 'Tailwind' ],
     source: 'https://crypto-78639.firebaseapp.com/',
     visit: 'https://github.com/Evgedzo/cryptoproj',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'GPT-3',
     description: "Site-presentation of new AI technology with possible integrations of connection newsletter for visitors.",
-    image: '/images/4.jpg',
+    image: './images/4.jpg',
     tags: ['React', 'CSS'],
     source: 'https://evgedzo.github.io/gpt3/',
     visit: 'https://github.com/Evgedzo/gpt3',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Hoobank',
     description: "Starting page of a bank to welcome and introduce to clients all possible features and possibilities that are available to them.",
-    image: '/images/5.jpg',
+    image: './images/5.jpg',
     tags: ['React', 'Tailwind'],
     source: 'https://evgedzo.github.io/bank/',
     visit: 'https://github.com/Evgedzo/bank',
